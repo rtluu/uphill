@@ -43,6 +43,10 @@ body{
             width: 100%;
             z-index: 1;
         }
+
+        .gatsby-image-wrapper{
+            height: 100%;
+        }
     }
 
     .hero-tagline{
@@ -51,4 +55,11 @@ body{
         position: relative;
         z-index: 2;
     }    
+
+    .hosted{
+        bottom: 0.25rem;
+        color: white;
+        position: absolute;
+        z-index: 2;
+    }
 }

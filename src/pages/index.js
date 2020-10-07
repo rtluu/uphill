@@ -15,7 +15,8 @@ const IndexPage = () => (
         <div className="hero-gradient" />
         <HeroImage />
       </div>
-      <p className="hero-tagline">A podcast about the uphill pursuit to be your best self</p>
+      <h3 className="hero-tagline">A podcast about the uphill pursuit to be your best self</h3>
+      <p className="hosted">Hosted by Ryan Luu & Landon Galloway</p>
     </div>
   </Layout>
 )
