@@ -63,3 +63,30 @@ body{
         z-index: 2;
     }
 }
+
+.description{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    position: relative;
+
+    .description-inner{
+        align-items: center;
+        background: white;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        margin: 4rem 0;
+        max-width: 50rem;
+        padding: 2rem 3rem;
+        position: relative;
+        width: 80%;
+
+        .description-image{
+            height: 4.5rem;
+            margin: 1rem 0 1.5rem 0;
+            position: relative;
+            width: 4.5rem;
+        }
+    }
+}
