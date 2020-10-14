@@ -64,13 +64,13 @@ body{
     }
 }
 
-.description-box{
+.intro-box{
     align-items: center;
     display: flex;
     justify-content: center;
     position: relative;
 
-    .description-inner{
+    .intro-inner{
         align-items: center;
         background: white;
         display: flex;
@@ -82,7 +82,7 @@ body{
         position: relative;
         width: 80%;
 
-        .description-image{
+        .intro-image{
             height: 4.5rem;
             margin: 1rem 0 1.5rem 0;
             position: relative;
@@ -100,21 +100,5 @@ body{
     .episodes-inner{
         max-width: 50rem;
         width: 80%;
-
-        .episode-card{
-            display: flex;
-            flex-direction: row;
-            margin-bottom: 1.5rem;
-
-            iframe{
-                margin-bottom: 0;
-                width: 100%;
-            }
-
-            .link-box{
-                background: white;
-                width: 20%;
-            }
-        }
     }
 }
