@@ -35,16 +35,18 @@ const IndexPage = () => (
       <div className="episodes-inner">
         <Episode
           description="In our inaugural episode we explore the..."
-          link="color=192BC2&episode=1&feed=https://anchor.fm/s/34c65550/podcast/rss"
-          spotify="7GYCP4jwy6MTQ2yA2qzZrv"
-          anchor="1-Establishing-Consistency-Through-Routine-ekmrta"
+          link="color=fbc85c&episode=1&feed=https://anchor.fm/s/34c65550/podcast/rss"
+          spotify="5OBDH2mbuziswdWNv6AjDl"
+          anchor="ekvgq7"
+          breaker="73704358"
         />
 
         <Episode
           description="For our second episode..."
-          link="color=ED6A5A&episode=2&feed=https://anchor.fm/s/34c65550/podcast/rss"
+          link="color=ED6A5A&episode=3&feed=https://anchor.fm/s/34c65550/podcast/rss"
           spotify="5OBDH2mbuziswdWNv6AjDl"
           anchor="2-Experiencing-failure-on-the-way-to-success-ekvgq7"
+          breaker="73853716"
         />
       </div>
     </div>

@@ -28,7 +28,7 @@ module.exports = {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: `uphill`,
-        short_name: `starter`,
+        short_name: `uphill`,
         start_url: `/`,
         background_color: `#663399`,
         theme_color: `#663399`,
